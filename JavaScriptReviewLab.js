@@ -195,12 +195,57 @@
 // Part F
 
 // 1.
+// let i=125;
 
-let i= 50;
+// if (i <= 100) {
+//   console.log("little number");
+// } else if (i>=100) {
+//   console.log("big number");}
 
-if i <= 100 {
-  console.log(i("little number"));
-} else i >= 100 {
-  console.log(i("big number"));
-}
-console.log(50)
+// Part G
+
+// let i=12;
+
+// if (i < 5) {
+//   console.log("little number");
+// } else if (i > 10) {
+//   console.log("big number"); }
+//   else { 
+//    console.log("monkey");
+//   }
+
+// Part H
+
+const kristynsCloset = [
+  "left shoe",
+  "cowboy boots",
+  "right sock",
+  "Per Scholas hoodie",
+  "green pants",
+  "yellow knit hat",
+  "marshmallow peeps"
+];
+
+// Thom's closet is more complicated. Check out this nested data structure!!
+const thomsCloset = [
+  [
+    // These are Thom's shirts
+    "grey button-up",
+    "dark grey button-up",
+    "light blue button-up",
+    "blue button-up",
+  ],[
+    // These are Thom's pants
+    "grey jeans",
+    "jeans",
+    "PJs"
+  ],[
+    // Thom's accessories
+    "wool mittens",
+    "wool scarf",
+    "raybans"
+  ]
+];
+
+// 1.
+
